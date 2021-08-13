@@ -1,0 +1,151 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/maulikbengali/Documents/contact-form/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/maulikbengali/Documents/contact-form/app/helpers/enquiries_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/maulikbengali/Documents/contact-form/app/controllers/enquiries_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          4,
+          4,
+          2,
+          2,
+          2,
+          null,
+          2,
+          4,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          4,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/maulikbengali/Documents/contact-form/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          5,
+          5,
+          null,
+          null,
+          1,
+          null,
+          1,
+          5,
+          5,
+          null,
+          null,
+          1,
+          5,
+          5,
+          5,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/maulikbengali/Documents/contact-form/app/mailers/enquiry_mailer.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/maulikbengali/Documents/contact-form/app/mailers/application_mailer.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/maulikbengali/Documents/contact-form/app/models/enquiry.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/maulikbengali/Documents/contact-form/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/maulikbengali/Documents/contact-form/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/maulikbengali/Documents/contact-form/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/maulikbengali/Documents/contact-form/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1594718053
+  }
+}
